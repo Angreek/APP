@@ -1,7 +1,6 @@
-.code-window{
-    width: 150px;
-    height: 200px;
-    background-color: #cccccc;
-    border: 1px solid #112233;
-    border-radius: 20px;
+
+button {
+    width: 100px;
+    height: 50px;
+    background-color: green;
 }
